@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    height: fit-content;
+    align-items: center;
+    justify-content: center;
+}
+
+.body{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.projectstitle{
+    font-size: 46px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+
